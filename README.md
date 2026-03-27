@@ -45,9 +45,9 @@ cd portfolio-website
 ### Personal Information
 Edit the following in `index.html`:
 - **Name**: Update all instances of "Harshavardhan"
-- **Email**: Change `your.email@example.com`
-- **Social Links**: Update GitHub, LinkedIn, Twitter URLs
-- **Location**: Update city/country
+- **Email**: borraharshu21@gmail.com
+- **Social Links**: https://www.linkedin.com/in/borra-jaya-harshavardhan-851661268/
+- **Location**: Andhra pradesh/India
 
 ### Colors
 Edit CSS variables in `style.css`:
